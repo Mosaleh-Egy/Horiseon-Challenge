@@ -37,12 +37,15 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-## Mock-Up
+## Screen Shots
+![screen output](./assets/images/capture.png)
+
 
 ## Github link:
 https://github.com/Mosaleh-Egy/Horiseon-Challenge
 
 ## Live Link:
+https://mosaleh-egy.github.io/Horiseon-Challenge/
 
 
 
