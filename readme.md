@@ -18,7 +18,6 @@ An important rule to follow when working with someone else's code is the Scout R
 
 To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-Are you ready to jump in? Here are this week's challenge requirements:
 
 ## User Story
 AS A marketing agency
@@ -39,5 +38,11 @@ THEN I find a concise, descriptive title
 
 
 ## Mock-Up
+
+## Github link:
+https://github.com/Mosaleh-Egy/Horiseon-Challenge
+
+## Live Link:
+
 
 
